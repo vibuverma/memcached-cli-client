@@ -1,4 +1,4 @@
-# memcached_protocol.py
+
 
 def serialize_storage_command(command, key, flags, exptime, bytes_length, value, noreply=False):
     """

@@ -1,4 +1,4 @@
-# test_memcached_protocol.py
+
 
 import unittest
 from memcached_protocol import serialize_storage_command, serialize_get_command, deserialize_response, deserialize_get_response
